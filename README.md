@@ -1,5 +1,9 @@
 # Plastic Pollution Detection in Marine Environments
 
+![example](https://github.com/mchianale/Plastic-Pollution-Detection/blob/main/doc/val_batch2_pred.jpg)
+
+---
+
 ## Introduction
 
 Plastic pollution has become a pressing environmental issue, significantly impacting marine ecosystems worldwide. Identifying, classifying, and detecting plastic waste, both on the water's surface and underwater, is critical for understanding pollution patterns and implementing effective mitigation strategies. Leveraging advanced machine learning models, this project aims to detect, classify, and analyze plastic waste in aquatic environments, combining datasets from diverse sources and cutting-edge algorithms like YOLO and CLIP.
